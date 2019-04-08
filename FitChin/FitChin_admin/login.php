@@ -31,7 +31,7 @@ mysqli_close($connection);
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="../layout/css/bootstrap.min.css">
-<title>Untitled Document</title>
+<title>FitChin Admin</title>
 
 
 </head>

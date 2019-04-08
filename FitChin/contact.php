@@ -73,6 +73,9 @@ $conn->close();
 <center>
   <a href="personaltraining.php">
 <img src="img/back.png" alt="Button">
+<a href="emaillogin.php">
+<img src="img/email.png" alt="Button">
+
 
 </center>
 

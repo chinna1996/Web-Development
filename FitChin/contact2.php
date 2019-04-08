@@ -47,7 +47,7 @@ background-size: cover;
  <table>
  <tr>
   <th>Name</th>
-  
+
  </tr>
  <?php
 $conn = mysqli_connect("localhost", "root", "", "store");
@@ -70,6 +70,8 @@ $conn->close();
 <center>
   <a href="login3.php">
 <img src="img/back.png" alt="Button">
+<a href="emaillogin.php">
+<img src="img/email.png" alt="Button">
 </center>
 
 <br><br> <br><br><br><br>
